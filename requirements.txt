@@ -7,7 +7,6 @@ requests==2.31.0
 
 # UI testing
 selenium==4.20.0
-webdriver-manager==4.0.1
 
 # Utilities
 python-dotenv==1.0.1
