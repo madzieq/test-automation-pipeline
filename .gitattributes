@@ -1,0 +1,3 @@
+# Tell GitHub to ignore these files when detecting language
+reports/report.html linguist-generated=true
+*.html linguist-generated=true
