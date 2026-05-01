@@ -19,6 +19,8 @@ Tests run inside a Docker container and are triggered automatically via GitHub A
 | pytest-html | HTML test report generation |
 
 ## Project Structure
+
+```
 test-automation-pipeline/
 ├── tests/
 │   ├── api/
@@ -34,8 +36,7 @@ test-automation-pipeline/
 │   └── workflows/
 │       └── tests.yml           # GitHub Actions CI/CD pipeline
 └── README.md
-
----
+```
 
 ## Test Coverage
 
